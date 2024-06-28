@@ -2,6 +2,8 @@
 
 This project simulates the day-by-day activities of a beehive over a given period of time. It models the different roles of bees in the colony and their interactions using fundamental concurrency concepts in Java.
 
+
+
 ## Table of Contents
 
 1. [Introduction](#introduction)
@@ -11,8 +13,7 @@ This project simulates the day-by-day activities of a beehive over a given perio
     - [Drone Bee](#drone-bee)
     - [Queen Bee](#queen-bee)
 4. [Getting Started](#getting-started)
-5. [Contributing](#contributing)
-6. [License](#license)
+
 
 ## Introduction
 
